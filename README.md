@@ -1,7 +1,7 @@
 # Resume
 # Sravani
 ### PERSONAL DETAILS
-- NAME : <br>
+- NAME : sravani <br>
 - MAIL ID : appanasravani2001@gmail.com <br>
 - MOBILE NUMBER : 9014012592 <br>
 - ADDRESS :  Tallapudi <br>
@@ -21,15 +21,15 @@
 - SAI VIDYANIKETHAN HIGH SCHOOL <br>
 - ADDRESS : Tallapudi <br>
 
-###SKILLS
+### SKILLS
 - PYTHON 80% <br>
 - JAVA 80% <br>
 - C PROGRAMMING 90% <br>
 
-###GOAL
+### GOAL
 I am become a "HINDI PANDIT" <br>
 
-###HOBBIES 
+### HOBBIES 
 -Playing games
 -Listening to music
 
